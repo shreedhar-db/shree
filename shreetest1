@@ -1,1 +1,26 @@
-creating one new file
+hi I'm a B.Sc. Computer Science student and an aspiring Software Developer
+with a strong interest in programming, machine learning, and application development.
+i just put here small html code
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Events</title>
+    <link rel="icon" href="refimage1.jpg">
+</head>
+<body> <center> 
+  <h1> Upcoming Events 📅</h1> 
+  <h2>Don't miss this event</h2> </center>
+  <br>
+  <h3>World Para Athletics is the global governing body for para-athletics, organizing elite international competitions including the biennial World Para Athletics Championships for athletes with physical and intellectual impairments.</h3>
+  <img src= "refimage2.jpg" > <br>
+  <h2>Photo gallery</h2> <center>
+  <h3>Free Entry|Free food| Pets allowed</h3> </center>
+  <p>A paragraph is a group of sentences that work together to explain one main idea. It acts as a building block for longer pieces of writing, like essays and stories. You can learn more about how they work in this Paragraph Writing Guide.</p>
+  <img src="des 3.jpg" <center>
+    <h3>Free Entry|Free food| Pets allowed</h3> </center>
+    <p>"Thalapathy" refers to Joseph Vijay Chandrasekhar, a famous Indian actor and politician from Tamil Nadu, India.Who is Thalapathy?</p>
+    <br>
+</body>
+</html>
